@@ -1,0 +1,12 @@
+##grflangid 0x01
+# This is the English language file
+
+# GRF name and description definitions
+STR_GRF_NAME            :MONTRÉAL Trains v1
+STR_GRF_DESCRIPTION     :{}{WHITE}MONTRÉAL Trains v1:{}{BLUE}Matériel Optimal;{}Nouveaux Transports;{}Réseau Étendu, Avancé,{}et Luxe{}{DKBLUE}Optimal Rolling Stock,{}New Transport Systems,{}an Extended, Advanced{}and Luxurious Network
+
+# vehicle names
+STR_NAME_test_5-8       :test_train_5-8
+
+# additional purchase menu text
+STR_PURCHASE_test_5-8   :Railtype: Rubber-Tired Metro{}Usage: {GREEN}Metro Train {BLACK}- {YELLOW}Faster Loading{}{BLACK}Operators: {BLUE}STM
