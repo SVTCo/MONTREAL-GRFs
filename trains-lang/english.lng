@@ -6,7 +6,11 @@ STR_GRF_NAME            :MONTRÉAL Trains v1
 STR_GRF_DESCRIPTION     :{}{WHITE}MONTRÉAL Trains v1:{}{BLUE}Matériel Optimal;{}Nouveaux Transports;{}Réseau Étendu, Avancé,{}et Luxe{}{DKBLUE}Optimal Rolling Stock,{}New Transport Systems,{}an Extended, Advanced{}and Luxurious Network
 
 # vehicle names
-STR_NAME_test_5-8       :test_train_5-8
+STR_NAME_STM_MR_63_3       :STM MR-63 (3-Car Train)
 
 # additional purchase menu text
-STR_PURCHASE_test_5-8   :Railtype: Rubber-Tired Metro{}Usage: {GREEN}Metro Train {BLACK}- {YELLOW}Faster Loading{}{BLACK}Operators: {BLUE}STM
+STR_PURCHASE_STM_MR_63_3   :Railtype: Rubber-Tired Metro{}Usage: {GREEN}Metro Train {BLACK}- {YELLOW}Faster Loading{}{BLACK}Operators: {BLUE}STM
+
+# refit option text
+STR_STM_MR_63_SUBTYPE_ORIGINAL                  :Original 1966 Livery
+STR_STM_MR_63_SUBTYPE_REFURBISHED               :Refurbished 1991 Livery
